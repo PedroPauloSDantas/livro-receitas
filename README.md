@@ -1,17 +1,8 @@
-# Livro de receitas :cocktail:
+# LIVRO DE RECEITAS
 
-# Strogonoff
+### Bolo de Ovos :egg:
 
-# Pavê
-
-
-
-<<<<<<< HEAD
+### Bolo de Leite :milk_glass:
 
 
 
-
-
-
-=======
->>>>>>> b93501991e6d4c06c0ba2174029782fb6080981e
